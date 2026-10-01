@@ -20,8 +20,9 @@ Student profiles can include uploaded photos, making it easier to identify and m
 The system provides different access levels for administrators, teachers, and students, ensuring that each user can access the appropriate features.
 ### Offline File Storage: 
 Information and uploaded files are stored locally on the computer rather than relying on an online database or internet connection.
-Windows Forms Interface: All system interfaces are developed using C# Windows Forms, providing a desktop-based graphical user interface that is simple and easy to navigate.
-User Roles
+### Windows Forms Interface: 
+All system interfaces are developed using C# Windows Forms, providing a desktop-based graphical user interface that is simple and easy to navigate.
+# User Roles
 ### Administrator:
 The administrator has the highest level of access. They can register students, add teachers, create and upload courses, and manage the overall university system.
 
